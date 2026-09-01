@@ -53,10 +53,4 @@ This project analyzes **100,000+ real e-commerce transactions** from Olist (Braz
 │   └── olist_monthly_growth.csv
 ├── notebooks/             # Python data ingestion & database creation
 │   └── 01_data_ingestion_and_audit.ipynb
-├── sql/                   # Analytical SQL scripts
-│   ├── 01_delivery_sla_metrics.sql
-│   ├── 02_customer_rfm_segmentation.sql
-│   └── 03_monthly_mom_growth.sql
-├── excel/                 # Financial modeling & Goal Seek simulations
-│   └── olist_financial_and_rfm_modeling.xlsx
 └── README.md
